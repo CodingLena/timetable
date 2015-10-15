@@ -1,0 +1,30 @@
+table {
+  border-radius: 3px;
+  border-color: red;
+  border-style: dashed;
+  }
+
+thead tr th {
+  text-align: center;
+  font-size: 30px;
+}
+
+tbody tr td {
+  font-size: 20px;
+}
+
+thead div tr th {
+color: red;
+}
+
+#zeit {
+  color: #CC527A;
+}
+
+body {
+  color: #FFC2D6;
+  background-image: url("../images/hintergrund1.jpg");
+  background-repeat: no-repeat;
+background-size: 100% 100%;
+
+}
